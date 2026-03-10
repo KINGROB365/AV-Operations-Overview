@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns01001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns01001100001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
   <layouts>
-    <layout name="npnxnanbsnfns01001100101" font="Lato" controllayout="npnxnanbsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="pxabnsnfns01001100101" font="Lato" controllayout="pxabnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="npxnabnsnfns01001100101" font="Lato" controllayout="npxnabnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="npnxnanbnsnfns01001100101" font="Lato" controllayout="npnxnanbnsnfns01001100101" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
-    <layout name="pxabnsnfns01001100100" font="Lato" controllayout="pxabnsnfns01001100100" colorscheme="pxabnsnfns01001100101" string_table="pxabnsnfns01001100101" />
+    <layout name="npnxnanbsnfns01001100001" font="Lato" controllayout="npnxnanbsnfns01001100001" colorscheme="pxabnsnfns01001100001" string_table="pxabnsnfns01001100001" />
+    <layout name="pxabnsnfns01001100001" font="Lato" controllayout="pxabnsnfns01001100001" colorscheme="pxabnsnfns01001100001" string_table="pxabnsnfns01001100001" />
+    <layout name="npxnabnsnfns01001100001" font="Lato" controllayout="npxnabnsnfns01001100001" colorscheme="pxabnsnfns01001100001" string_table="pxabnsnfns01001100001" />
+    <layout name="npnxnanbnsnfns01001100001" font="Lato" controllayout="npnxnanbnsnfns01001100001" colorscheme="pxabnsnfns01001100001" string_table="pxabnsnfns01001100001" />
+    <layout name="pxabnsnfns01001100000" font="Lato" controllayout="pxabnsnfns01001100000" colorscheme="pxabnsnfns01001100001" string_table="pxabnsnfns01001100001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,13 +13,13 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="AV Operations Overview V.8" />
+              <option name="title_text" value="AV Operations Overview V.9" />
             </options>
           </option>
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6MHxxhNrjzP.png" />
+              <option name="html5_logo_url" value="mobile/65BmQZcaQTn.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -61,7 +61,7 @@
       </optiongroup>
       <optiongroup name="controls">
         <options>
-          <option name="volume" value="true" />
+          <option name="volume" value="false" />
           <option name="seekbar" value="false">
             <options>
               <option name="readonly" value="false" />
@@ -71,7 +71,7 @@
           <option name="pauseplay" value="false" />
           <option name="replay" value="false" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true" />
+          <option name="closed_captions" value="false" />
           <option name="settings" value="true" />
           <option name="fullScreenToggle" value="true" />
           <option name="playbackSpeedControl" value="false" />
@@ -101,8 +101,8 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns01001100101">
-      <control name="volume" enabled="true" />
+    <control_layout name="npnxnanbsnfns01001100001">
+      <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -126,8 +126,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns01001100101">
-      <control name="volume" enabled="true" />
+    <control_layout name="pxabnsnfns01001100001">
+      <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -151,8 +151,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns01001100101">
-      <control name="volume" enabled="true" />
+    <control_layout name="npxnabnsnfns01001100001">
+      <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -176,8 +176,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns01001100101">
-      <control name="volume" enabled="true" />
+    <control_layout name="npnxnanbnsnfns01001100001">
+      <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -201,8 +201,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns01001100100">
-      <control name="volume" enabled="true" />
+    <control_layout name="pxabnsnfns01001100000">
+      <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -228,7 +228,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns01001100101">
+    <colorscheme name="pxabnsnfns01001100001">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1405,7 +1405,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns01001100101">
+    <string_table name="pxabnsnfns01001100001">
       <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
       <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
       <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
@@ -1566,7 +1566,11 @@
             <slidelink slideid="_player.60Fgth9zo4Z.5kOuOL0DAJq" displaytext="WELCOME LAYOUT" expand="false" type="slide" />
             <slidelink slideid="_player.60Fgth9zo4Z.5izwSvyaNZt" displaytext="AV Roles &amp;amp; Responsibilities" expand="false" type="slide" />
             <slidelink slideid="_player.60Fgth9zo4Z.5zWNVTlwMGp" displaytext="Process Interaction" expand="false" type="slide" />
+            <slidelink slideid="_player.60Fgth9zo4Z.6ZcPE4oN4JG" displaytext="AV Change Freeze Timeline | Town Hall Events" expand="false" type="slide" />
             <slidelink slideid="_player.60Fgth9zo4Z.6Lj06pcfXX6" displaytext="AV Floor Diagram" expand="false" type="slide" />
+            <slidelink slideid="_player.60Fgth9zo4Z.6J7WV3sAQmD" displaytext="OBJECTIVES LAYOUT" expand="false" type="slide" />
+            <slidelink slideid="_player.60Fgth9zo4Z.5r47xEbw9TV" displaytext="Current Operational Challenges | Results" expand="false" type="slide" />
+            <slidelink slideid="_player.60Fgth9zo4Z.6mMdyLWygPC" displaytext="Benefits of Transformed AV Solution | Standard Operational Process" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
