@@ -13,13 +13,13 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="AV Operations Overview V.99" />
+              <option name="title_text" value="AV Operations Overview V.101" />
             </options>
           </option>
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6PZ0tOt2QgH.png" />
+              <option name="html5_logo_url" value="mobile/5V3fkIYBIyE.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1584,6 +1584,17 @@
         <slidelink slideid="_player.6XGhqmcL1w4" displaytext="Value Impact &amp;amp; Cost" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6XGhqmcL1w4.5flRFmQFCc9" displaytext="Microsoft Power BI" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5nrTcK4eGFo" displaytext="Equipment &amp;amp; Floor Diagram" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5nrTcK4eGFo.5xNUIGCiRAE" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nrTcK4eGFo.6aSdQ2D7Z96" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nrTcK4eGFo.5mS2I80LSHQ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nrTcK4eGFo.6Yg0u12gz9I" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nrTcK4eGFo.5p6SlYmSpVw" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nrTcK4eGFo.6mW34XIlFar" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nrTcK4eGFo.6FpUOcBGlET" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
